@@ -112,8 +112,9 @@
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <pb facs="tcp:048411_0000_10253469919E1608"/>
-                  <pb facs="tcp:048411_0001_10253471CAFC2240" rendition="simple:additions"/>
+                  <pb facs="unknown:048411_0000_10253469919E1608"/>
+                  <pb facs="unknown:048411_0001_10253471CAFC2240"
+                      rendition="simple:additions"/>
                   <p>
                      <hi>DIALOGUE,</hi> BETWEEN A <hi>Fond FATHER and his little SON.</hi>
                   </p>
@@ -123,7 +124,7 @@
                   <p>NORWICH: PRINTED BY JOHN TRUMBULL, 1798.</p>
                </div>
                <div type="preface">
-                  <pb facs="tcp:048411_0002_10253478720A68D8"/>
+                  <pb facs="unknown:048411_0002_10253478720A68D8"/>
                   <head>PREFACE.</head>
                   <p>
                      <hi>WHEREAS a Dialogue between a Father and Son, printed ſome time ago, met with a ſpeedy ſale, and was thought of ſome advantage, 'tis now thought that a con<g ref="char:EOLhyphen"/>tinuation of ſaid Dialogue, may be ſtill more advantage<g ref="char:EOLhyphen"/>ous, and it is committed to the preſs for that purpoſe.</hi>
@@ -132,12 +133,12 @@
             </front>
             <body>
                <div type="dialogue">
-                  <pb facs="tcp:048411_0003_1025347E128706D8"/>
+                  <pb facs="unknown:048411_0003_1025347E128706D8"/>
                   <head>A DIALOGUE, &amp;c.</head>
                   <sp>
                      <speaker>Father.</speaker>
                      <p>DEAR Son, you re<g ref="char:EOLhyphen"/>member that ſome conſiderable time ago, we took a rambling walk through the or<g ref="char:EOLhyphen"/>chards, fields and meadows, and cloſe by the ſide of the river, where we took a view of the bridges, mills and falls, and proceeded down the ſtream until it emptied itſelf in<g ref="char:EOLhyphen"/>to the ocean, where the great ſhips traverſe the main, and go round the world, which is above twenty thouſand miles, or as the ſhips muſt ſail, to go round the
-<pb n="6" facs="tcp:048411_0004_1025347C888BF148"/>different capes of land, it will be above forty thouſand miles, before they can get back to the place from whence they ſat out.</p>
+<pb n="6" facs="unknown:048411_0004_1025347C888BF148"/>different capes of land, it will be above forty thouſand miles, before they can get back to the place from whence they ſat out.</p>
                   </sp>
                   <sp>
                      <speaker>Son.</speaker>
@@ -146,7 +147,7 @@
                   <sp>
                      <speaker>Father.</speaker>
                      <p>Dear ſon, it is not ſtrange that you ſhould not fully underſtand it, for there are many men that cannot fully comprehend it. But when you are older and have read ſome books on geogra<g ref="char:EOLhyphen"/>phy, and had an opportunity alſo to ſee a terreſtial globe, where the globe is divided into land and wat<g ref="char:EOLhyphen"/>er, and where the tract of Lord
-<pb n="7" facs="tcp:048411_0005_102534818D0D8D80"/>Arſon and Capt. Cook, is marked out on the globe, you may eaſily conceive how they may go round the world, and return again to the place from which they ſat out.</p>
+<pb n="7" facs="unknown:048411_0005_102534818D0D8D80"/>Arſon and Capt. Cook, is marked out on the globe, you may eaſily conceive how they may go round the world, and return again to the place from which they ſat out.</p>
                   </sp>
                   <sp>
                      <speaker>Son.</speaker>
@@ -157,7 +158,7 @@
                      <p>'Tis truly a very agree<g ref="char:EOLhyphen"/>ble ſtudy, and at a proper time I ſhall be glad to inſtruct you therein, but at preſent we will de<g ref="char:EOLhyphen"/>fer it, and talk of ſomething elſe.</p>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:048411_0006_102534859C833990"/>
+                     <pb n="8" facs="unknown:048411_0006_102534859C833990"/>
                      <speaker>Son.</speaker>
                      <p>Well ſir I am willing to be directed by you, as you know what will be moſt uſeful and bene<g ref="char:EOLhyphen"/>ficial to me.</p>
                   </sp>
@@ -178,7 +179,7 @@
                      <p>Yes Sir, I have read it through and through again, and ſome parts of it I have read many times.</p>
                   </sp>
                   <sp>
-                     <pb n="9" facs="tcp:048411_0007_10253489E6A2B388"/>
+                     <pb n="9" facs="unknown:048411_0007_10253489E6A2B388"/>
                      <speaker>Father.</speaker>
                      <p>Then I hope you re<g ref="char:EOLhyphen"/>member a good deal that you have read.</p>
                   </sp>
@@ -203,7 +204,7 @@
                      <p>Yes, I remember that it is ſaid, that God made man out of the duſt of the earth, and breathed into him the breath of life, and he became a living ſoul.</p>
                   </sp>
                   <sp>
-                     <pb n="10" facs="tcp:048411_0008_1025348D29080B28"/>
+                     <pb n="10" facs="unknown:048411_0008_1025348D29080B28"/>
                      <speaker>Father.</speaker>
                      <p>After God had made man where did he live.</p>
                   </sp>
@@ -226,7 +227,7 @@
                   <sp>
                      <speaker>Son.</speaker>
                      <p>We read that they were to cultivate and till the ground,
-<pb n="11" facs="tcp:048411_0009_10253492840B2BE8"/>and take care of the fruit trees, herbs, &amp;c.</p>
+<pb n="11" facs="unknown:048411_0009_10253492840B2BE8"/>and take care of the fruit trees, herbs, &amp;c.</p>
                   </sp>
                   <sp>
                      <speaker>Father.</speaker>
@@ -253,7 +254,7 @@
                         </gap> of the fruit and did eat, and <gap reason="illegible" resp="#UOM" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>
-                        <pb n="12" facs="tcp:048411_0010_102534955258AF90"/>unto her huſband and he did eat.</p>
+                        <pb n="12" facs="unknown:048411_0010_102534955258AF90"/>unto her huſband and he did eat.</p>
                   </sp>
                   <sp>
                      <speaker>Father.</speaker>
@@ -276,7 +277,7 @@
                      <p>Had Adam and Eve any children.</p>
                   </sp>
                   <sp>
-                     <pb n="13" facs="tcp:048411_0011_10253496D80E0CF0"/>
+                     <pb n="13" facs="unknown:048411_0011_10253496D80E0CF0"/>
                      <speaker>Son.</speaker>
                      <p>Yes, they had Cain and Abel, of whom we read that Cain was a wicked boy, and Abel a good boy, and when they were grown up Cain was angry with his brother Abel, and when they were in the field, he roſe up againſt him and ſlew him.</p>
                   </sp>
@@ -293,7 +294,7 @@
                      <p>Did mankind multi<g ref="char:EOLhyphen"/>ply upon the earth after this.</p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:048411_0012_1025349B13359270"/>
+                     <pb n="14" facs="unknown:048411_0012_1025349B13359270"/>
                      <speaker>Son.</speaker>
                      <p>Yes, they multiplied and <gap reason="illegible" resp="#UOM" extent="1 span">
                            <desc>〈…〉</desc>
@@ -327,7 +328,7 @@
                   <sp>
                      <speaker>Son.</speaker>
                      <p>No, we read that they ſtill continued wicked, except Noah and his family, and God bid No<g ref="char:EOLhyphen"/>ah
-<pb n="15" facs="tcp:048411_0013_102534A1A1C39DA0"/>build an Ark, by which he and his family and ſome of all ſorts of creatures, might be preſerved and ſaved alive, when the reſt of the world ſhould be drowned.</p>
+<pb n="15" facs="unknown:048411_0013_102534A1A1C39DA0"/>build an Ark, by which he and his family and ſome of all ſorts of creatures, might be preſerved and ſaved alive, when the reſt of the world ſhould be drowned.</p>
                   </sp>
                   <sp>
                      <speaker>Father.</speaker>
@@ -356,7 +357,7 @@
                         </gap>.</p>
                   </sp>
                   <sp>
-                     <pb n="16" facs="tcp:048411_0014_102534A329EFC760"/>
+                     <pb n="16" facs="unknown:048411_0014_102534A329EFC760"/>
                      <speaker>Son.</speaker>
                      <p>No, they went on in their old way until the fatal day in which the rain began to fall, and Noah &amp; his family, and two and two of all creatures went into the Ark, and the doors and windows were cloſed, and no man ſuffered to go in, and ſo they were all drowned.</p>
                   </sp>
@@ -375,7 +376,7 @@
                   <sp>
                      <speaker>Son.</speaker>
                      <p>We read that the waters prevailed on the earth 150 days, but after 40 days Noah opened a window and let out a dove, who after flying about and finding no place to reſt her feet upon, ſhe re<g ref="char:EOLhyphen"/>turned
-<pb n="17" facs="tcp:048411_0015_102534F15426B8D0"/>to Noah and he took her again into the Art; and then he waited ſeven days more, and let her go out again, and after a while ſhe returned with an olive leaf in her mouth plucked off, by which Noah ſuppoſed the waters were a<g ref="char:EOLhyphen"/>bated, and after ſeven days more be let out the dove again and ſhe never returned, and after a while the Ark reſted on a great mountain called Ararat.</p>
+<pb n="17" facs="unknown:048411_0015_102534F15426B8D0"/>to Noah and he took her again into the Art; and then he waited ſeven days more, and let her go out again, and after a while ſhe returned with an olive leaf in her mouth plucked off, by which Noah ſuppoſed the waters were a<g ref="char:EOLhyphen"/>bated, and after ſeven days more be let out the dove again and ſhe never returned, and after a while the Ark reſted on a great mountain called Ararat.</p>
                   </sp>
                   <sp>
                      <speaker>Father.</speaker>
@@ -390,7 +391,7 @@
                      <p>What now become of Noah and his family.</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:048411_0016_102534F6DA957F08"/>
+                     <pb n="18" facs="unknown:048411_0016_102534F6DA957F08"/>
                      <speaker>Son.</speaker>
                      <p>We read that God made a covenant with him, and it was confirmed by a rainbow, that the earth ſhould not again be drowned.</p>
                   </sp>
@@ -409,7 +410,7 @@
                   <sp>
                      <speaker>Son.</speaker>
                      <p>Yes, we read that ſoon after the fall of man, God ſaid, that
-<pb n="19" facs="tcp:048411_0017_102534AA8AE34AE0"/>the ſeed of the woman ſhould bruiſe the ſerpents head; but I never knew the true meaning of that ſentence.</p>
+<pb n="19" facs="unknown:048411_0017_102534AA8AE34AE0"/>the ſeed of the woman ſhould bruiſe the ſerpents head; but I never knew the true meaning of that ſentence.</p>
                   </sp>
                   <sp>
                      <speaker>Father.</speaker>
@@ -422,7 +423,7 @@
                   <sp>
                      <speaker>Father.</speaker>
                      <p>Yes, there were many prophecies and intimations thereof, to Noah, Abraham, Iſaac, and Ja<g ref="char:EOLhyphen"/>cob, to David, Iſaiah, and other Prophets of old, and all the ſacri<g ref="char:EOLhyphen"/>fices of beaſts and birds, &amp;c. that we read of in the old teſtament, are ſuppoſed to look forward to that
-<pb n="20" facs="tcp:048411_0018_102534ACE3FED800"/>great and atoneing ſacrifice that ſhould be made for ſin, by Jeſus Chriſt the Meſſiah, and Saviour of the world; and eſpecially by the type of the <hi>brazen Serpent,</hi> that was erected in the wilderneſs, which the children of Iſrael were directed to look to, when they had been bit<g ref="char:EOLhyphen"/>ten by the flying fiery ſerpents.</p>
+<pb n="20" facs="unknown:048411_0018_102534ACE3FED800"/>great and atoneing ſacrifice that ſhould be made for ſin, by Jeſus Chriſt the Meſſiah, and Saviour of the world; and eſpecially by the type of the <hi>brazen Serpent,</hi> that was erected in the wilderneſs, which the children of Iſrael were directed to look to, when they had been bit<g ref="char:EOLhyphen"/>ten by the flying fiery ſerpents.</p>
                   </sp>
                   <sp>
                      <speaker>Son.</speaker>
@@ -435,7 +436,7 @@
                   <sp>
                      <speaker>Son.</speaker>
                      <p>And did not the Jews, (God's ancient people,) expect him as a temporal king, and that he
-<pb n="21" facs="tcp:048411_0019_102534B102666528"/>would be uſhered into the world in great pomp and ſplendor, and that he would deliver them from their bondage to the Romans.</p>
+<pb n="21" facs="unknown:048411_0019_102534B102666528"/>would be uſhered into the world in great pomp and ſplendor, and that he would deliver them from their bondage to the Romans.</p>
                   </sp>
                   <sp>
                      <speaker>Father.</speaker>
@@ -456,7 +457,7 @@
                   <sp>
                      <speaker>Father.</speaker>
                      <p>As the ſhepherds were ſeeding their flocks, an angel appeared unto them and told them that the Meſſiah who had been
-<pb n="22" facs="tcp:048411_0020_102534B40FD0A908"/>long expected, was born into the world; and the ſhepherds were diſ<g ref="char:EOLhyphen"/>poſed to go and ſee him, and pay their worſhip and adoration unto him, and alſo the wiſe men of the Eaſt, enquired where Chriſt ſhould be born, and they were directed by the appearance of a ſtar in the Heavens, that went before them, and ſtood over the place where the child Jeſus was.</p>
+<pb n="22" facs="unknown:048411_0020_102534B40FD0A908"/>long expected, was born into the world; and the ſhepherds were diſ<g ref="char:EOLhyphen"/>poſed to go and ſee him, and pay their worſhip and adoration unto him, and alſo the wiſe men of the Eaſt, enquired where Chriſt ſhould be born, and they were directed by the appearance of a ſtar in the Heavens, that went before them, and ſtood over the place where the child Jeſus was.</p>
                   </sp>
                   <sp>
                      <speaker>Son.</speaker>
@@ -471,7 +472,7 @@
                      <p>Did not King Herod de<g ref="char:EOLhyphen"/>ſire the wiſe men when they retur<g ref="char:EOLhyphen"/>ned, to tell him where they found him, that he might alſo go and worſhip him.</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:048411_0021_102534B9B77864C8"/>
+                     <pb n="23" facs="unknown:048411_0021_102534B9B77864C8"/>
                      <speaker>Father.</speaker>
                      <p>Yes he did, but his deſign was to <gap reason="illegible" resp="#UOM" extent="1 span">
                            <desc>〈…〉</desc>
@@ -494,7 +495,7 @@
                   <sp>
                      <speaker>Father.</speaker>
                      <p>We read in the Bible, that he kept with his parents, and was ſubject to them;—but when he was twelve years old he was found in the temple, aſking queſ<g ref="char:EOLhyphen"/>tions
-<pb n="24" facs="tcp:048411_0022_102534BF19BD85F8"/>of the doctors, and giving anſwers beyond what could be ex<g ref="char:EOLhyphen"/>pected from one of his age; and he aſked his parents if they did not know that he muſt be about his father's buſineſs.</p>
+<pb n="24" facs="unknown:048411_0022_102534BF19BD85F8"/>of the doctors, and giving anſwers beyond what could be ex<g ref="char:EOLhyphen"/>pected from one of his age; and he aſked his parents if they did not know that he muſt be about his father's buſineſs.</p>
                   </sp>
                   <sp>
                      <speaker>Son.</speaker>
@@ -503,7 +504,7 @@
                   <sp>
                      <speaker>Father.</speaker>
                      <p>He became a preach<g ref="char:EOLhyphen"/>er, and ſpeak as never man ſpake before; and he went about doing good, healing the ſick, reſtoring the lame, giving ſight to the blind; he fed many thouſands with a few loaves and fiſhes, and raiſed ſome to life again who had been dead, and did many miracles, ſo that thouſands flocked after him to be healed of their diſeaſes of ſoul and body, and they brought little chil<g ref="char:EOLhyphen"/>dren to him, and his diſciples for<g ref="char:EOLhyphen"/>bad them, but he told them to come, for of ſuch he ſaid was the
-<pb n="25" facs="tcp:048411_0023_102534C0A3F2C628"/>kingdom of God, and he took them up in his arms and bleſſed them.</p>
+<pb n="25" facs="unknown:048411_0023_102534C0A3F2C628"/>kingdom of God, and he took them up in his arms and bleſſed them.</p>
                   </sp>
                   <sp>
                      <speaker>Son.</speaker>
@@ -524,7 +525,7 @@
                   <sp>
                      <speaker>Son.</speaker>
                      <p>I remember it is ſaid, <q>Repentance unto life is a ſaving grace, whereby a ſinner out of a true ſenſe of his ſin, and appre<g ref="char:EOLhyphen"/>henſion of the mercy of God, in Jeſus Chriſt, doth with grief and hatred thereof, turn from it
-<pb n="26" facs="tcp:048411_0024_102534C899CC7248"/>unto God, with full purpoſe and endeavours after new obedience.</q>
+<pb n="26" facs="unknown:048411_0024_102534C899CC7248"/>unto God, with full purpoſe and endeavours after new obedience.</q>
                      </p>
                   </sp>
                   <sp>
@@ -543,7 +544,7 @@
                   <sp>
                      <speaker>Father.</speaker>
                      <p>Truly, I believe that thoſe who repent and believe on Chriſt, will not fail of being ſaved and going to Heaven; but they who have true faith and repentance will be diſpoſed to good works, and to hate every wicked and falſe way, to do as they would be done by, and attend unto all the rules
-<pb n="27" facs="tcp:048411_0025_102534D19EDBDB48"/>and precepts of the goſpel, to fear God and keep his command, and live ſoberly, rationally, and Godly, in this world.</p>
+<pb n="27" facs="unknown:048411_0025_102534D19EDBDB48"/>and precepts of the goſpel, to fear God and keep his command, and live ſoberly, rationally, and Godly, in this world.</p>
                   </sp>
                   <sp>
                      <speaker>Son.</speaker>
@@ -562,7 +563,7 @@
                      <p>And I can as truly ſay as St. Paul, I wiſh that you was not only almoſt but altogether per<g ref="char:EOLhyphen"/>ſuaded to be a Chriſtian, that ſo after ſerving God, and your gener<g ref="char:EOLhyphen"/>ation according to his will, you might go to Heaven and be eter<g ref="char:EOLhyphen"/>nally bleſſed and happy.</p>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:048411_0026_102534D464717F90"/>
+                     <pb n="28" facs="unknown:048411_0026_102534D464717F90"/>
                      <speaker>Son.</speaker>
                      <p>But is it worth while for children and young ſolks to be religious, and to put on the Chriſ<g ref="char:EOLhyphen"/>tian name.</p>
                   </sp>
@@ -582,7 +583,7 @@
                   <sp>
                      <speaker>Son.</speaker>
                      <p>I thank you for your in<g ref="char:EOLhyphen"/>ſtruction
-<pb n="29" facs="tcp:048411_0027_102534D6039E8F38"/>and kind advice, and hope I may have wiſdom and grace to follow it.</p>
+<pb n="29" facs="unknown:048411_0027_102534D6039E8F38"/>and kind advice, and hope I may have wiſdom and grace to follow it.</p>
                   </sp>
                   <sp>
                      <speaker>Father.</speaker>
@@ -598,7 +599,7 @@
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <pb facs="tcp:048411_0028_102534DA1231F198"/>
+                  <pb facs="unknown:048411_0028_102534DA1231F198"/>
                   <p>Entertaining Extracts, From various Authors. <hi>Worthy the peruſal of every good Child.</hi>
                   </p>
                   <q>
@@ -614,29 +615,29 @@
             </front>
             <body>
                <div type="extracts">
-                  <pb facs="tcp:048411_0029_102534DCD9088608"/>
+                  <pb facs="unknown:048411_0029_102534DCD9088608"/>
                   <head>EXTRACTS, &amp;c.</head>
                   <p>THE bittereſt things in reli<g ref="char:EOLhyphen"/>gion are ſweet; there is a ſweetneſs even in reproofs; when God meets with our corruptions, and whiſpers unto us, ſuch and ſuch things are dangerous; and that if we cheriſh them, they will bring us to hell, the word of God is ſweet to a chriſtian, that hath his heart under his innocence; is not pardon ſweet to a condemand man, and riches ſweet to a poor man, and favor ſweet to a man in diſgrace, and liberty ſweet to a man in captivity? ſo all that <gap reason="illegible" resp="#UOM" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="33" facs="tcp:048411_0030_102534DE5F9ADDB8"/>from God is ſweet to a chriſtian, that hath his heart touched with the ſenſe of ſin.</p>
+                     <pb n="33" facs="unknown:048411_0030_102534DE5F9ADDB8"/>from God is ſweet to a chriſtian, that hath his heart touched with the ſenſe of ſin.</p>
                   <div type="part">
                      <head>ORIGIN OF SHIPPING.</head>
                      <q>
                         <hi>And God ſaid to Noah, make thee an ark of Gopher wood; rooms ſhalt thou make in the ark, and ſhalt pitch it within, and without, with pitch.</hi>
                      </q>
                      <p>THE moſt ingenious and uſe<g ref="char:EOLhyphen"/>ful arts are of celeſtial origin; and from this chapter it is evident, that the firſt ſhip that ever floated on the world of waters, was built ac<g ref="char:EOLhyphen"/>cording to the plan, and under the regulating eye, of a divine artificer. With what amazing contrivance and oeconomy were the directions given by the Deity to Noah? How exact the architecture, and what judicious hints were hence furni<g ref="char:EOLhyphen"/>ſhed to human creatures in regard
-<pb n="34" facs="tcp:048411_0031_102534E437397768"/>to maritime affairs! Man has al<g ref="char:EOLhyphen"/>ways been characteriſed by his powers of imitation. From this very ark aroſe the firſt ideas of a poſſibility to paſs beyond the lim<g ref="char:EOLhyphen"/>its of land: the ſcheme once pro<g ref="char:EOLhyphen"/>jected, and the ſecret of its con<g ref="char:EOLhyphen"/>ſtruction once imparted, it was not likely to be forgotten; ſo far otherwiſe, that we ſtand indebted to it, for many valuable bleſſings —for the advantages of commerce, the pleaſure of travel, and the glo<g ref="char:EOLhyphen"/>ry of victory. The merchant and the ſailor owe to this undertaking all their benefits; and whatever de<g ref="char:EOLhyphen"/>ſirable circumſtances ariſe from connections with remote climates, certainly originate from an imita<g ref="char:EOLhyphen"/>tion of that ſacred repoſitory, which preſerved from the deluge the fam<g ref="char:EOLhyphen"/>ily of Noah.</p>
+<pb n="34" facs="unknown:048411_0031_102534E437397768"/>to maritime affairs! Man has al<g ref="char:EOLhyphen"/>ways been characteriſed by his powers of imitation. From this very ark aroſe the firſt ideas of a poſſibility to paſs beyond the lim<g ref="char:EOLhyphen"/>its of land: the ſcheme once pro<g ref="char:EOLhyphen"/>jected, and the ſecret of its con<g ref="char:EOLhyphen"/>ſtruction once imparted, it was not likely to be forgotten; ſo far otherwiſe, that we ſtand indebted to it, for many valuable bleſſings —for the advantages of commerce, the pleaſure of travel, and the glo<g ref="char:EOLhyphen"/>ry of victory. The merchant and the ſailor owe to this undertaking all their benefits; and whatever de<g ref="char:EOLhyphen"/>ſirable circumſtances ariſe from connections with remote climates, certainly originate from an imita<g ref="char:EOLhyphen"/>tion of that ſacred repoſitory, which preſerved from the deluge the fam<g ref="char:EOLhyphen"/>ily of Noah.</p>
                   </div>
                   <div type="part">
-                     <pb n="35" facs="tcp:048411_0032_102534E72F75DB48"/>
+                     <pb n="35" facs="unknown:048411_0032_102534E72F75DB48"/>
                      <head>OF COMPANY.</head>
                      <p>BE very circumſpect in the choice of your company; in the ſociety of your equals you may en<g ref="char:EOLhyphen"/>joy pleaſure; in the ſociety of your ſuperiors, you may find pro<g ref="char:EOLhyphen"/>fit; but to be the beſt in compa<g ref="char:EOLhyphen"/>ny, is to be in the way of grow<g ref="char:EOLhyphen"/>ing worſe; the beſt means to im<g ref="char:EOLhyphen"/>prove, is, to be the leaſt there. But above all, be the companion of thoſe who fear the Lord, and keep his precepts.</p>
                   </div>
                   <div type="part">
                      <head>OF POVERTY.</head>
                      <p>IN ſeeking virtue, if you find poverty, be not aſhamed, the fault is not yours. Your honour or diſhonour is purchaſed by your own actions; though virtue gives a ragged livery, ſhe gives a gold<g ref="char:EOLhyphen"/>en
-<pb n="36" facs="tcp:048411_0033_102534EB3AA467C8"/>cognizance. If her ſervice make you poor, bluſh not; your poverty may prove diſadvantage<g ref="char:EOLhyphen"/>ous to you, but cannot diſhonour you.</p>
+<pb n="36" facs="unknown:048411_0033_102534EB3AA467C8"/>cognizance. If her ſervice make you poor, bluſh not; your poverty may prove diſadvantage<g ref="char:EOLhyphen"/>ous to you, but cannot diſhonour you.</p>
                   </div>
                   <div type="part">
                      <head>OF READING.</head>
